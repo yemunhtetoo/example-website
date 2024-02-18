@@ -1,2 +1,2 @@
-console("config.js")
-console("script1.js")
+console("config2.js")
+console("script2.js")
